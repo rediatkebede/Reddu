@@ -11,5 +11,6 @@
                http://www.mulesoft.org/schema/mule/ee/domain http://www.mulesoft.org/schema/mule/ee/domain/current/mule-domain-ee.xsd">
 
     <!-- configure here resource to be shared within the domain -->
+	<!-- testing git -->
 
 </domain:mule-domain>
